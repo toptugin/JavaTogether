@@ -28,9 +28,9 @@ public class Task2 {
 			}
 		}
 
-		String[] w = s.split(".");
-		for (int i = 0; i < w.length; i++) {
-			System.out.println(w[i]);
+	
+		for (String str:s.split(" ")) {
+			System.out.println(str);
 		}
 
 		System.out.println("Длина текста: " + dlina + " символов, " + chars + " без учета пробелов.");
