@@ -3,7 +3,7 @@ package slackHomeWork;
 public class Task2 {
 
 	public static void main(String[] args) {
-		String s = "Слово казак заимствовано русским языком из тюркских языков. Оно значило свободный, независимый человек, бродяга.";
+		String s = "It was almost noon when I woke up.The river's water level has risen.";
 		int sentences = 0;
 		int words = 0;
 		int words1 = 0;
